@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Ruhr-Universität Bochum - Chair of Social Science Data Analysis
+    company: Ruhr-Universität Bochum - Chair for Social Science Data Analysis
     company_url: ''
-    company_logo: org-r
+    company_logo: Ruhr-Universität_Bochum_logo
     location: Bochum
     date_start: '2019-07-01'
     date_end: ''
@@ -36,14 +36,48 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Ruhr-Universität Bochum - Chair for Comparative Politics
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Ruhr-Universität_Bochum_logo
+    location: Bochum
+    date_start: '2018-07-01'
+    date_end: ''
+    description: : |2-
+        Responsibilities include:
+        
+        * Web-Scraping
+        * Analysing
+        * Teaching
+
+  - title: Student Assistant
+    company: Ruhr-Universität Bochum - Chair for Health Policy
+    company_url: ''
+    company_logo: Ruhr-Universität_Bochum_logo
+    location: Bochum
+    date_start: '2016-07-01'
+    date_end: '2018-03-01'
+    description: : |2-
+        Responsibilities include:
+        
+        * Data acquisition
+        * Data preparation
+        * Analysing
+        * Participation in scientific projects
+
+  - title: Student Assistant
+    company: Ruhr-Universität Bochum - Chair for Social Policy and Public Economics
+    company_url: ''
+    company_logo: Ruhr-Universität_Bochum_logo
+    location: Bochum
+    date_start: '2012-02-01'
+    date_end: '2018-03-01'
+    description: : |2-
+        Responsibilities include:
+        
+        * Data preparation
+        * Analysing
+        * Participation in scientific projects
 
 design:
   columns: '2'
