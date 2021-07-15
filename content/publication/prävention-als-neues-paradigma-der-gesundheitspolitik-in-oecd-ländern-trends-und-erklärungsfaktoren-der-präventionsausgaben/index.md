@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - katharina-böhm
+  - katharina-boehm
 doi: https://doi.org/10.3790/sfo.67.8-9.645
 publication: In *Sozialer Fortschritt*
 publication_short: In *SF*
