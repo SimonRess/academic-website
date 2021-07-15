@@ -28,7 +28,7 @@ event_url: https://www.uni-potsdam.de/fileadmin/projects/pcqr/Veranstaltungen/PC
 featured: true
 authors:
   - admin
-  - JulianaWitkowski
+  - juliana-witkowski
 url_video: ""
 url_slides: ""
 address:
