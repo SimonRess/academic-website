@@ -10,6 +10,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Methods of Modern Causal Analysis
 social:
   - icon: envelope
     icon_pack: fas
