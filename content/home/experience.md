@@ -42,7 +42,7 @@ experience:
     company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2018-07-01'
-    date_end: '2019-06-30'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
