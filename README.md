@@ -1,3 +1,7 @@
+# Tasks:
+[] add Workshop https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/
+[] add "Teaching"-Tab to the menu 
+
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
@@ -14,7 +18,11 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+
 - [How to edit](https://wowchemy.com/docs/getting-started/install/#edit-your-site)
+- gist for teaching: https://gist.github.com/HughP/d8d9b3477f0c2ea5ed1f3c43c719f422
+- gist for workshops: https://gist.github.com/HughP/c0a2895cdeff863fbb68f174334a43ff
+- Get BibTeX entry of a DOI: https://www.doi2bib.org/bib/
 
 ## Crowd-funded open-source software
 
