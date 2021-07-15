@@ -2,13 +2,15 @@
 title: "Uncovering interest group participation in Germany: web collection of
   written statements in ministries and the parliament"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - rainer-eising
   - florian-spohr
   - daniel-rasch
 doi: 10.1057/s41309-020-00099-5
+publication: In *Interest Groups & Advocacy*
+publication_short: In *IG&A*
 abstract: This article discusses web collection of interest group statements on
   bills as a data source. Written statements allow the identification of actors
   active in policy-making as well as those actors’ positions, lobbying
