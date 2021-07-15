@@ -18,7 +18,7 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Ökonomische Selektivität im politischen Engagement
 location: |-
-  Universität Potsdam
+  Universität Potsdam,
   Am Neuen Palais 10, 14469 Potsdam
 date: 2020-03-06T14:00:00.000Z
 date_end: 2020-03-07T16:00:00.000Z
