@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Social Science Data Analysis
     company_url: ''
-    company_logo: Ruhr-Universität_Bochum_logo
+    company_logo: RUB-logo
     location: Bochum
     date_start: '2019-07-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
     company_url: ''
-    company_logo: Ruhr-Universität_Bochum_logo
+    company_logo: RUB-logo
     location: Bochum
     date_start: '2018-07-01'
     date_end: ''
@@ -53,7 +53,7 @@ experience:
   - title: Student Assistant
     company: Ruhr-Universität Bochum - Chair for Health Policy
     company_url: ''
-    company_logo: Ruhr-Universität_Bochum_logo
+    company_logo: RUB-logo
     location: Bochum
     date_start: '2016-07-01'
     date_end: '2018-03-01'
@@ -68,7 +68,7 @@ experience:
   - title: Student Assistant
     company: Ruhr-Universität Bochum - Chair for Social Policy and Public Economics
     company_url: ''
-    company_logo: Ruhr-Universität_Bochum_logo
+    company_logo: RUB-logo
     location: Bochum
     date_start: '2012-02-01'
     date_end: '2018-03-01'
