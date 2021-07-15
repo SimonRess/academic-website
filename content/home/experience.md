@@ -29,7 +29,7 @@ experience:
     location: Bochum
     date_start: '2019-07-01'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Analysing
@@ -43,7 +43,7 @@ experience:
     location: Bochum
     date_start: '2018-07-01'
     date_end: ''
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Web-Scraping
@@ -57,7 +57,7 @@ experience:
     location: Bochum
     date_start: '2016-07-01'
     date_end: '2018-03-01'
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Data acquisition
@@ -72,7 +72,7 @@ experience:
     location: Bochum
     date_start: '2012-02-01'
     date_end: '2018-03-01'
-    description: |2-
+    description: >-
         Responsibilities include:
         
         * Data preparation
