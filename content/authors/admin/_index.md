@@ -36,15 +36,12 @@ organizations:
     url: https://www.sowi.rub.de/pw2/team/ress.html.de
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.A. in Methods of Social Research
+      institution: Ruhr-Universität Bochum
+      year: 2019
+    - course: B.A. in Social Science
+      institution: Ruhr-Universität Bochum
+      year: 2006
 email: ""
 superuser: true
 highlight_name: false
