@@ -13,7 +13,7 @@ abstract: >-
   Insbesondere im Bereich von politischem Engagement ist zu berücksichtigen, dass neben der sozialen Integration auch die Repräsentation einer breiten Masse der Bevölkerung in der Politik leidet, wenn einige soziale Gruppen unterproportional vertreten sind. Anhand der Daten des SOEPs wird geschätzt, wie das Einkommen auf die Bereitschaft und das Ausmaß, sich in Bürgerinitiativen, politischen Organisationen oder auf Ebene der Kommunalpolitik zu engagieren, wirkt. Dabei wird sowohl temporale als auch gruppenspezifsche Heterogenität des Effekts zugelassen. 
 
   Mit Hilfe von Directed Acycling Graphs wird gemäß des Potential Outcome Models (Rubin 2005) eine geeignete Auswahl von Confounder-Variablen aus dem bisherigen Forschungsstand abgeleitet, sodass Gültigkeit der Conditional Independence Assumption angenommen und ein kausaler Effekt geschätzt werden kann. Modelliert wird die Schätzung mittels Difference-in-Differences Propensity Score Matching.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Ökonomische Selektivität im politischen Engagement
@@ -37,29 +37,13 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/p2Xor4Lbrrk)"
   focal_point: Right
 url_code: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
