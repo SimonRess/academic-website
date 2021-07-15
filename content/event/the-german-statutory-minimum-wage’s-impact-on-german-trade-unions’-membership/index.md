@@ -18,7 +18,8 @@ publishDate: 2021-07-15T14:38:09.318Z
 draft: false
 featured: false
 authors:
-  - FlorianSpohr
+  - admin
+  - florian-spohr
 image:
   filename: featured
   focal_point: Smart
