@@ -1,7 +1,7 @@
 ---
 title: Juliana Witkowski
 role: Research Assistant
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 organizations:
   - name: Ruhr-Universität Bochum
