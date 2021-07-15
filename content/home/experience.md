@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair of Social Science Data Analysis
     company_url: ''
-    company_logo: org-rub
+    company_logo: org-r
     location: Bochum
     date_start: '2019-07-01'
     date_end: ''
