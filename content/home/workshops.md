@@ -50,4 +50,4 @@ exclude_selected = true
 February 2, 2021 Web-Scraping in R 
 
 January 15 - February 2, 2007 8th Luke Partnership workshop in Gombe State
-ECWA Theological College, Kufai, Biliri, Gombe State,
+ECWA Theological College, Kufai, Biliri, Gombe State
