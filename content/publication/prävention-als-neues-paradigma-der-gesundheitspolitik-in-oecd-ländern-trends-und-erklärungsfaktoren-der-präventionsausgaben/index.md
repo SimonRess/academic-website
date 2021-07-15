@@ -2,7 +2,7 @@
 title: Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern?
   Trends und Erklärungsfaktoren der Präventionsausgaben
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - katharina-böhm
