@@ -25,11 +25,11 @@ experience:
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Social Science Data Analysis
     company_url: ''
-    company_logo: ''
+    company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2019-07-01'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Analysing
@@ -39,11 +39,11 @@ experience:
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
     company_url: ''
-    company_logo: ''
+    company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2018-07-01'
     date_end: '2019-06-30'
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Web-Scraping
