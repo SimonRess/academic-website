@@ -1,14 +1,14 @@
 ---
-title: "Was it worth it? The impact of the minimum wages' introduction on union
-  membership of employees "
+title: Was it worth it? The impact of the minimum wages' introduction on union
+  membership of employees (upcoming)
 subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - florian-spohr
-publication: Economic and Industrial Democracy (upcoming)
-publication_short: ""
+publication: In *Economic and Industrial Democracy*
+publication_short: In *EID*
 abstract: This contribution scrutinises how introducing a statutory minimum wage
   of EUR 8.50 per hour on January 1, 2015, impacted German employees’ decision
   towards a union membership. Based on representative data from the ‘Panel
@@ -21,7 +21,7 @@ abstract: This contribution scrutinises how introducing a statutory minimum wage
   overall. Thus, unions’ campaign for a minimum wage strengthened their position
   in total but did not reverse the segmentation of union membership patterns.
 draft: false
-featured: false
+featured: true
 tags:
   - Minimum wage
   - Union membership
