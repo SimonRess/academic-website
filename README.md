@@ -1,6 +1,6 @@
 # Tasks:
-[] add Workshop https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/
-[] add "Teaching"-Tab to the menu 
+[ ] add Workshop https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/
+[ ] add "Teaching"-Tab to the menu 
 
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
