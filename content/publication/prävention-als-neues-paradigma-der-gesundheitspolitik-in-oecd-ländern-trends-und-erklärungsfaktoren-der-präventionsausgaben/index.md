@@ -6,7 +6,9 @@ publication_types:
 authors:
   - admin
   - katharina-böhm
-doi: 10.3790/sfo.67.8-9.645
+doi: https://doi.org/10.3790/sfo.67.8-9.645
+publication: In *Sozialer Fortschritt*
+publication_short: In *SF*
 abstract: >-
   Vor dem Hintergrund der Zunahme chronischer Krankheiten wird Prävention immer
   wichtiger. Die Präventionspolitik der OECD-Länder ist bislang jedoch kaum
