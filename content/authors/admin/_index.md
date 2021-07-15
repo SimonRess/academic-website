@@ -7,23 +7,20 @@ bio: Simon Ress is PhD candidate at the chairs Comparative Politics & Social
   interest groups and lobbyism. He has published articles on interest groups and
   prevention policy.
 interests:
-  - Methods of Modern Causal Analysis
+  - Modern Causal Analysis
+  - Social Policy
+  - Labour market
+  - Social epidemiology
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=FK5EIQMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/SimonRess
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - display:
       header: false
     link: https://www.researchgate.net/profile/Simon-Ress
