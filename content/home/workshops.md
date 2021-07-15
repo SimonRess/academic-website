@@ -45,9 +45,4 @@ exclude_selected = true
 +++
 <h2 class="fa icon fa icon-applications fa-3x" aria-hidden="true">Workshops</h2>
 
-<span style="font-size: 0.8em;">As part of my position with the Seed Company from 9/2004 – 12/2007, I was engaged as a _Linguistics Intern_ under [Katherine Barnwell, Ph.D](https://www.sil.org/biography/katharine-barnwell).  I worked and lived in Nigeria. During this three year internship I was took part in or facilitated various workshops. Most workshops focused on providing minority language speakers linguistic and language use skills.</span>
-
 February 2, 2021 Web-Scraping in R 
-
-January 15 - February 2, 2007 8th Luke Partnership workshop in Gombe State
-ECWA Theological College, Kufai, Biliri, Gombe State
