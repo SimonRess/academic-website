@@ -21,28 +21,28 @@ weight = 57
 
 _[Political Science Section](https://www.sowi.rub.de/sektionen/powi/index.html.en)_
 
-+ Health policy in international comparison – Instructor (Summer ‘21)
-+ International comparison of labour market policies. Why do they differ? What impact does the EU have? – Instructor (Winter ‘20)
-+ Erklärung unterschiedlicher Gesundheitspolitiken in Europa - Instructor(Summer ‘20)
-+ Arbeitsmarktpolitik im Vergleich – Instructor (Winter ‘19)
-+ Gesundheitspolitik im Vergleich – Instructor (Summer ‘19)
-+ Methoden der Vergleichenden Politikwissenschaft - Instructor (Winter ‘18)
++ (Master) Health policy in international comparison – Instructor (Summer ‘21)
++ (Master) International comparison of labour market policies. Why do they differ? What impact does the EU have? – Instructor (Winter ‘20)
++ (Master) Erklärung unterschiedlicher Gesundheitspolitiken in Europa - Instructor(Summer ‘20)
++ (Bachelor) Arbeitsmarktpolitik im Vergleich – Instructor (Winter ‘19)
++ (Bachelor) Gesundheitspolitik im Vergleich – Instructor (Summer ‘19)
++ (Bachelor) Methoden der Vergleichenden Politikwissenschaft - Instructor (Winter ‘18)
 
 
 <h2>Ruhr-Universität Bochum </h2>
 
 _[Social Policy & Social Economy Section](https://www.sowi.rub.de/sektionen/sopooek/index.html.en)_
 
-+ Postkeynesianische Wirtschaftspolitik als Alternative zur ökonomischen Orthodoxie? – Instructor (Summer ‘16)
++ (Bachelor) Postkeynesianische Wirtschaftspolitik als Alternative zur ökonomischen Orthodoxie? – Instructor (Summer ‘16)
 
 
 <h2>American English Institute, University of Oregon</h2>
 
 _[Romanic Seminar](https://www.ruhr-uni-bochum.de/romsem/)_
 
-+ Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘18)
-+ Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘17)
-+ Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘16)
++ (Bachelor) Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘18)
++ (Bachelor) Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘17)
++ (Bachelor) Einführung in die Wirtschafts und Sozialpolitik für L.E.A. Studierende  – Instructor  (Winter ‘16)
 
 
 
