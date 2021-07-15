@@ -50,35 +50,6 @@ experience:
         * Analysing
         * Teaching
 
-  - title: Student Assistant
-    company: Ruhr-Universität Bochum - Chair for Health Policy
-    company_url: ''
-    company_logo: RUB-logo
-    location: Bochum
-    date_start: '2016-07-01'
-    date_end: '2018-03-01'
-    description: >-
-        Responsibilities include:
-        
-        * Data acquisition
-        * Data preparation
-        * Analysing
-        * Participation in scientific projects
-
-  - title: Student Assistant
-    company: Ruhr-Universität Bochum - Chair for Social Policy and Public Economics
-    company_url: ''
-    company_logo: RUB-logo
-    location: Bochum
-    date_start: '2012-02-01'
-    date_end: '2018-03-01'
-    description: >-
-        Responsibilities include:
-        
-        * Data preparation
-        * Analysing
-        * Participation in scientific projects
-
 design:
   columns: '2'
 ---
