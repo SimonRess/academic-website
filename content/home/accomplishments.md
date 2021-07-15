@@ -23,6 +23,33 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://github.com/SimonRess/academic-website/blob/2ff04355843aecfb8882ca9f9ac052e24511cd3d/assets/media/certificates/2020-Building%20Web%20Applications%20with%20Shiny%20in%20R.pdf
+  date_end: "2020-04-01"
+  date_start: "2020-04-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Building Web Applications with Shiny in R
+  url: https://learn.datacamp.com/courses/building-web-applications-with-shiny-in-r
+  
+- certificate_url: https://github.com/SimonRess/academic-website/blob/2ff04355843aecfb8882ca9f9ac052e24511cd3d/assets/media/certificates/2019-Data%20Manipulation%20with%20dplyr%20in%20R.pdf
+  date_end: "2020-07-07"
+  date_start: "2020-07-07"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Data Manipulation with dplyr in R
+  url: https://learn.datacamp.com/courses/data-manipulation-with-dplyr
+  
+- certificate_url: https://github.com/SimonRess/academic-website/blob/2ff04355843aecfb8882ca9f9ac052e24511cd3d/assets/media/certificates/2019-Joining%20Data%20with%20dplyr%20in%20R.pdf
+  date_end: "2020-11-13"
+  date_start: "2020-11-13"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Joining Data with dplyr in R
+  url: https://learn.datacamp.com/courses/joining-data-with-dplyr
+
 - certificate_url: https://github.com/SimonRess/academic-website/blob/a000fe6e9d799cedae9bf17da82e5e438e80cbe1/assets/media/certificates/2017%20-%20Teilnahmezertifikat.%20Einf%C3%BChrung%20in%20die%20Methoden%20der%20modernen%20Kausalanalyse.pdf
   date_end: "2017-11-17"
   date_start: "2017-11-15"
