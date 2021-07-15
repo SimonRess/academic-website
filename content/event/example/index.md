@@ -1,63 +1,51 @@
 ---
-title: Example Talk
+abstract: >-
+  In dem geplanten Vortrag werden die Analysemethode und -ergebnisse des
+  Einfusses ökonomischer Faktoren auf die Bereitschaft, zum politischen
+  Engagement, vorgestellt. Mit bürgerschaftlichem Engagement im Allgemeinen, zu
+  dem auch politische Partizipation zählt, wird die Hoffnung verbunden,
+  verschiedene gesellschaftliche Gruppen zu integrieren. Studien wiesen in der
+  Vergangenheit darauf hin, dass sich die Partizipation in der Zivilgesellschaft
+  zwar im Durchschnitt erhöht hat, bestimmte Formen jedoch rückläufig sind und
+  sich auf bestimmte soziale Gruppen konzentrieren (Tesch-Römer et al. 2017;
+  Bödeker 2012). 
 
-event: Wowchemy Conference
-event_url: https://example.org
+  Insbesondere im Bereich von politischem Engagement ist zu berücksichtigen, dass neben der sozialen Integration auch die Repräsentation einer breiten Masse der Bevölkerung in der Politik leidet, wenn einige soziale Gruppen unterproportional vertreten sind. Anhand der Daten des SOEPs wird geschätzt, wie das Einkommen auf die Bereitschaft und das Ausmaß, sich in Bürgerinitiativen, politischen Organisationen oder auf Ebene der Kommunalpolitik zu engagieren, wirkt. Dabei wird sowohl temporale als auch gruppenspezifsche Heterogenität des Effekts zugelassen. 
 
-location: Wowchemy HQ
+  Mit Hilfe von Directed Acycling Graphs wird gemäß des Potential Outcome Models (Rubin 2005) eine geeignete Auswahl von Confounder-Variablen aus dem bisherigen Forschungsstand abgeleitet, sodass Gültigkeit der Conditional Independence Assumption angenommen und ein kausaler Effekt geschätzt werden kann. Modelliert wird die Schätzung mittels Difference-in-Differences Propensity Score Matching.
+slides: example
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Ökonomische Selektivität im politischen Engagement
+location: Potsdam
+date: 2020-03-06T14:00:00.000Z
+date_end: 2020-03-07T16:00:00.000Z
+all_day: true
+event: Frühjahrstagung der Sektion Methoden der empirischen Sozialforschung (DGS)
+event_url: https://www.uni-potsdam.de/fileadmin/projects/pcqr/Veranstaltungen/PCQR-Workshops/Wintersemester_2019_20/dgsmeth_program.pdf
+featured: false
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+publishDate: 2017-01-01T00:00:00Z
+tags: []
 projects:
-- example
+  - example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  focal_point: Right
+url_code: ""
 ---
 
 {{% callout note %}}
