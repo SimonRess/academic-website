@@ -13,7 +13,7 @@ abstract: >-
   Insbesondere im Bereich von politischem Engagement ist zu berücksichtigen, dass neben der sozialen Integration auch die Repräsentation einer breiten Masse der Bevölkerung in der Politik leidet, wenn einige soziale Gruppen unterproportional vertreten sind. Anhand der Daten des SOEPs wird geschätzt, wie das Einkommen auf die Bereitschaft und das Ausmaß, sich in Bürgerinitiativen, politischen Organisationen oder auf Ebene der Kommunalpolitik zu engagieren, wirkt. Dabei wird sowohl temporale als auch gruppenspezifsche Heterogenität des Effekts zugelassen. 
 
   Mit Hilfe von Directed Acycling Graphs wird gemäß des Potential Outcome Models (Rubin 2005) eine geeignete Auswahl von Confounder-Variablen aus dem bisherigen Forschungsstand abgeleitet, sodass Gültigkeit der Conditional Independence Assumption angenommen und ein kausaler Effekt geschätzt werden kann. Modelliert wird die Schätzung mittels Difference-in-Differences Propensity Score Matching.
-slides: 2019-ILERA-Ress&Spohr/2019-ILERA-Ress&Spohr.pdf
+slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Ökonomische Selektivität im politischen Engagement
@@ -25,7 +25,7 @@ date_end: 2020-03-07T16:00:00.000Z
 all_day: true
 event: Frühjahrstagung der Sektion Methoden der empirischen Sozialforschung (DGS)
 event_url: https://www.uni-potsdam.de/fileadmin/projects/pcqr/Veranstaltungen/PCQR-Workshops/Wintersemester_2019_20/dgsmeth_program.pdf
-featured: false
+featured: true
 authors: []
 url_video: ""
 url_slides: ""
