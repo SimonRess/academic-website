@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-- title: Research Assistant
+  - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
     company_url: ''
     company_logo: ''
