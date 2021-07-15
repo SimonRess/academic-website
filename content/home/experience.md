@@ -36,7 +36,19 @@ experience:
         * Modelling
         * Deploying
         
-
+- title: Research Assistant
+    company: Ruhr-Universität Bochum - Chair for Comparative Politics
+    company_url: ''
+    company_logo: RUB-logo
+    location: Bochum
+    date_start: '2018-07-01'
+    date_end: ''
+    description: : |2-
+        Responsibilities include:
+        
+        * Web-Scraping
+        * Analysing
+        * Teaching
 
 design:
   columns: '2'
