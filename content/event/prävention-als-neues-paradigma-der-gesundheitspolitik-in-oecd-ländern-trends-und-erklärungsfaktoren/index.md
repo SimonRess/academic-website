@@ -41,7 +41,7 @@ draft: false
 featured: false
 authors:
   - admin
-  - katharina-böhm
+  - katharina-boehm
 image:
   filename: featured
   focal_point: Smart
