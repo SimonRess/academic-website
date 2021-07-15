@@ -26,7 +26,9 @@ all_day: true
 event: Frühjahrstagung der Sektion Methoden der empirischen Sozialforschung (DGS)
 event_url: https://www.uni-potsdam.de/fileadmin/projects/pcqr/Veranstaltungen/PCQR-Workshops/Wintersemester_2019_20/dgsmeth_program.pdf
 featured: true
-authors: []
+authors:
+  - admin
+  - JulianaWitkowski
 url_video: ""
 url_slides: ""
 address:
