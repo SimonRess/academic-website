@@ -14,7 +14,7 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-- [How to edit](https://wowchemy.com/docs/getting-started/install/)
+- [How to edit](https://wowchemy.com/docs/getting-started/install/#edit-your-site)
 
 ## Crowd-funded open-source software
 
