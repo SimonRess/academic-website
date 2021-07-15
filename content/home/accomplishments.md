@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://github.com/SimonRess/academic-website/blob/a000fe6e9d799cedae9bf17da82e5e438e80cbe1/assets/media/certificates/2017%20-%20Teilnahmezertifikat.%20Einf%C3%BChrung%20in%20die%20Methoden%20der%20modernen%20Kausalanalyse.pdf
+  date_end: "2017-11-17"
+  date_start: "2017-11-15"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: GESIS
+  organization_url: https://www.gesis.org/home
+  title: 2017 - Teilnahmezertifikat. Einführung in die Methoden der modernen Kausalanalyse.pdf
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
