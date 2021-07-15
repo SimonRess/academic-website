@@ -7,9 +7,6 @@ bio: Simon Ress is PhD candidate at the chairs Comparative Politics & Social
   interest groups and lobbyism. He has published articles on interest groups and
   prevention policy.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
   - Methods of Modern Causal Analysis
 social:
   - icon: envelope
