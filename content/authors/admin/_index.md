@@ -1,7 +1,7 @@
 ---
 title: Simon Ress
 role: Research Assistant
-avatar_filename: img_20180928_160511_356.jpg
+avatar_filename: avatar.jpg
 bio: I am a PhD candidate at the chairs Comparative Politics & Social Science
   Data Analysis, Ruhr-Universität Bochum. My main research interests are labor
   market policies and their effects on individual health, as well as interest
