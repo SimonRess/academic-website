@@ -1,10 +1,11 @@
 ---
 title: Simon Ress
 role: Research Assistant
-bio: Simon Ress is PhD candidate at the chairs Comparative Politics & Social
-  Science Data Analysis, Ruhr-Universität Bochum. His main research interests
-  are labor market policies and their effects on individual health, as well as
-  interest groups and lobbyism. He has published articles on interest groups and
+avatar_filename: img_20180928_160511_356.jpg
+bio: I am a PhD candidate at the chairs Comparative Politics & Social Science
+  Data Analysis, Ruhr-Universität Bochum. My main research interests are labor
+  market policies and their effects on individual health, as well as interest
+  groups and lobbyism. I have published articles on interest groups and
   prevention policy.
 interests:
   - Modern Causal Analysis
