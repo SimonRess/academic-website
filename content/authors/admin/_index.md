@@ -10,8 +10,8 @@ bio: I am a PhD candidate at the chairs Comparative Politics & Social Science
 interests:
   - Modern Causal Analysis
   - Social Policy
-  - Labour market
-  - Social epidemiology
+  - Labour Market
+  - Social Epidemiology
 social:
   - icon: envelope
     icon_pack: fas
