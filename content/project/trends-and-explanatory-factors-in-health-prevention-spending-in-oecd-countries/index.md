@@ -8,7 +8,7 @@ draft: false
 featured: false
 authors:
   - admin
-  - kathaina-böhm
+  - kathaina-boehm
 categories: []
 external_link: ""
 image:
@@ -16,12 +16,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Date: 1 September 2016 - 1 June 2018
+
 Ziel: In diesem Projekts sollen die Entwicklungstrends von Präventionsausgaben in OECD-Ländern und die diesen Trends zugrundeliegenden Faktoren untersucht werden
 
 Goal: In this project development trends will be investigated prevention spending in OECD countries and this trend Underlying factors
 
 
 
-Publications: 
+Final paper: 
 
 * [Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern? Trends und Erklärungsfaktoren der Präventionsausgaben](https://www.simon-ress.de/publication/pravention-als-neues-paradigma-der-gesundheitspolitik-in-oecd-landern-trends-und-erklarungsfaktoren-der-praventionsausgaben/)
