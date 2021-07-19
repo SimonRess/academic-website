@@ -9,13 +9,12 @@ summary: >-
   of this influence and the consequences for the trade unions should be further
   determined.
 
-  Panel Data Analysis, R, Difference-in-Differences Estimation
 draft: false
 featured: false
 authors:
   - admin
   - florian-spohr
-tags: []
+tags: ["Difference-in-Differences", "Panel Data Analysis", "Propensity Score Matching"]
 external_link: ""
 image:
   filename: featured
