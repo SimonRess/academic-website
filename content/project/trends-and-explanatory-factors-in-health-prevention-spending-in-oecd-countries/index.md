@@ -10,7 +10,7 @@ authors:
   - admin
   - kathaina-böhm
 categories: []
-external_link: https://www.simon-ress.de/publication/pravention-als-neues-paradigma-der-gesundheitspolitik-in-oecd-landern-trends-und-erklarungsfaktoren-der-praventionsausgaben/
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
