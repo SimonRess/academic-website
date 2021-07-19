@@ -12,6 +12,8 @@ summary: >-
 
   Zielsetzung: In dem Forschungsvorhaben soll untersuchen werden, ob sich die Einführung des allgemeinen gesetzlichen Mindestlohns auf die Wahrscheinlichkeit der Weitermitgliedschaft in einer Gewerkschaft einerseits und auf die Wahrscheinlichkeit eines Gewerkschaftsbeitritts andererseits ausgewirkt hat. Ist dies der Fall, sollen die Stärke dieses Einflusses und die Folgen für die Gewerkschaften näher bestimmt werden.
 
+Final paper:
+* [Was it worth it? The impact of the minimum wages' introduction on union membership of employees](https://www.simon-ress.de/publication/was-it-worth-it-the-impact-of-the-minimum-wages-introduction-on-union-membership-of-employees/)
 
   Panel Data Analysis, R, Difference-in-Differences Estimation
 draft: false
@@ -20,7 +22,7 @@ authors:
   - admin
   - florian-spohr
 tags: []
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
