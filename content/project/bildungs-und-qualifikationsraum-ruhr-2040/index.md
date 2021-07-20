@@ -1,17 +1,41 @@
 ---
 title: Bildungs- und Qualifikationsraum Ruhr 2040
 subtitle: (Education and qualification area Ruhr 2040)
+tags:
+- Labour market
+- Education System
 date: 2021-07-20T11:27:25.254Z
 summary: Im Projekt „Bildungs- und Qualifikationsraum Ruhr 2040“ wird die zukünftige Entwicklung der regionalen Bildungsteilhabe und des qualifikationsspezifischen Arbeitskräfteangebots in Nordrhein-Westfalen, mit Fokus auf dem Ruhrgebiet, dargestellt. Es wird geprüft, in welchem Ausmaß in NRW und im RVR Gebiet zukünftig ein Missverhältnis zwischen den Arbeitskräften, die in den Ruhestand gehen und denen, die sie ersetzen können, besteht.
 draft: false
 featured: false
 authors:
   - admin
+
+# Optional external URL for project (replaces project detail page).
 external_link: ""
+
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  
+ # links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""  
+  
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example     
+  
 ---
 **Über das Projekt**\
 Im Projekt „Bildungs- und Qualifikationsraum Ruhr 2040“ wird die zukünftige Entwicklung der regionalen Bildungsteilhabe und des qualifikationsspezifischen Arbeitskräfteangebots in Nordrhein-Westfalen, mit Fokus auf dem Ruhrgebiet, dargestellt. Es wird geprüft, in welchem Ausmaß in NRW und im RVR Gebiet zukünftig ein Missverhältnis zwischen den Arbeitskräften, die in den Ruhestand gehen und denen, die sie ersetzen können, besteht. Das Projekt knüpft mit diesem Vorhaben an den Ergebnissen und Erkenntnissen aus dem vorhergehenden Projekt „Wege zur Metropole Ruhr“ an, das ebenfalls von der Stiftung Mercator gefördert wurde. Während das vorhergehende Projekt vor allem die kleinräumige Entwicklung der sozialen Segregation und Bildungschancen in den Stadtteilen in den letzten 50 Jahre bis zur Gegenwart in dem Blick hatte (**[Ergebnisbericht](http://www.zefir.rub.de/mam/content/zefir_mat_bd_6_wege_zur_metropole_ruhr.pdf)**), wird anschließend der Blick für die Region in die Zukunft gerichtet und es werden auf Basis der Ergebnisse mögliche Konsequenzen und Handlungsempfehlungen abgeleitet. Das Projekt zeigt die gesellschaftliche Relevanz von Maßnahmen zur Verbesserung der Bildungschancen auf und liefert eine fundierte Datenbasis für die relevanten Akteure.
