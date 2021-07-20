@@ -14,7 +14,7 @@ featured: false
 authors:
   - admin
   - florian-spohr
-tags: ["Difference-in-Differences", "Panel Data Analysis", "Propensity Score Matching"]
+tags: ["Labour Market", "Difference-in-Differences", "Panel Data Analysis", "Propensity Score Matching"]
 external_link: ""
 image:
   filename: featured
