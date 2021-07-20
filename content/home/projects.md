@@ -31,7 +31,12 @@ content:
     tag: Modern Causal Analysis
   - name: Panel Data Analysis
     tag: Panel Data Analysis
-
+  - name: Health
+    tag: Health
+  - name: Labour Market
+    tag: Labour Market
+    
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
