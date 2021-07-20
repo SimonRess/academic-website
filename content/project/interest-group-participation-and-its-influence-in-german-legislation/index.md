@@ -1,6 +1,7 @@
 ---
 title: Interest group participation and its influence in German legislation
 date: 2021-07-20T09:35:44.527Z
+summary: The project analyses the presence and influence of interest groups, corporations, policy experts and other actors in the German parliament (Bundestag)
 draft: false
 featured: false
 authors:
