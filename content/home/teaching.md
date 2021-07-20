@@ -17,7 +17,7 @@ weight = 57
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-<h2>Ruhr-Universität Bochum </h2>
+<h2>Ruhr-Universität Bochum</h2>
 
 _[Political Science Section](https://www.sowi.rub.de/sektionen/powi/index.html.en)_
 
@@ -29,14 +29,24 @@ _[Political Science Section](https://www.sowi.rub.de/sektionen/powi/index.html.e
 + (Bachelor) Methoden der Vergleichenden Politikwissenschaft - Instructor (Winter ‘18) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&from=vvz&gguid=0x6F0486B7EC764A3EA71ACA08BCDAAD22&mode=own&tguid=0x63AFB79AE0C44D2B962D450F2AE41038&lang=de)
 
 
-<h2>Ruhr-Universität Bochum </h2>
+<h2>Ruhr-Universität Bochum</h2>
+
+_[Methodenzentrum](https://methodenzentrum.ruhr-uni-bochum.de/)_
+
++ (Workshop) Web-Scraping in R (Winter ‘20) [Link](https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/)
++ (Workshop) (Web-)Apps with R-Shiny (Winter ‘20) [Link](https://github.com/SimonRess/W-Web-Apps-with-R-Shiny)
++ (Workshop) Introduction to R (Winter ‘20) [Link](https://github.com/SimonRess/W-Introduction-to-R)
++ (Workshop) Moderne Kausalanalyse. Rubin Causal Model und Directed Acyclic Graphs (Winter ‘18) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x3C822B33BDC74E41BFCFC3C42254CC2F&from=vvz&mode=own&tabID=2&tguid=0x63AFB79AE0C44D2B962D450F2AE41038&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de)
+
+
+<h2>Ruhr-Universität Bochum</h2>
 
 _[Social Policy & Social Economy Section](https://www.sowi.rub.de/sektionen/sopooek/index.html.en)_
 
 + (Bachelor) Postkeynesianische Wirtschaftspolitik als Alternative zur ökonomischen Orthodoxie? – Instructor (Summer ‘16)
 
 
-<h2>American English Institute, University of Oregon</h2>
+<h2>Ruhr-Universität Bochum</h2>
 
 _[Romanic Seminar](https://www.ruhr-uni-bochum.de/romsem/)_
 
