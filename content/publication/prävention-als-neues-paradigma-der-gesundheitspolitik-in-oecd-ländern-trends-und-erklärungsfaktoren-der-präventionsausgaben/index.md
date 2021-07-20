@@ -29,9 +29,13 @@ abstract: >-
   Rising rates of chronic diseases pose a significant problem that can only be solved through increased efforts in prevention. However, prevention policies of OECD-countries are rarely studied yet. Addressing this research gap, the article describes the development and variance of public spending on prevention amongst OECD-countries for the period 1985 – 2015 and estimates the effects of various factors on preventive spending using a hybrid model. The analyses show that some variance between countries results from differences in welfare regime, healthcare system type and number of practicing physicians. The effect of the level of economic development, however, is not significant. Within country variance can be explained by differences in the economic condition, the morbidity of chronic diseases and the number of practicing physicians.
 draft: false
 featured: false
+tags:
+  - health
+projects:
+  - trends-and-explanatory-factors-in-health-prevention-spending-in-oecd-countries
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-07-15T19:13:05.408Z
+date: 2018-07-31T19:13:05.408Z
 ---
