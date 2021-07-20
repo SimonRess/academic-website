@@ -2,15 +2,12 @@
 title: Bildungs- und Qualifikationsraum Ruhr 2040
 subtitle: (Education and qualification area Ruhr 2040)
 date: 2021-07-20T11:27:25.254Z
-summary: In the “Education and Qualification Area Ruhr 2040” project, the future
-  development of regional participation in education and the
-  qualification-specific labor supply in North Rhine-Westphalia, with a focus on
-  the Ruhr area, is presented.
+summary: Im Projekt „Bildungs- und Qualifikationsraum Ruhr 2040“ wird die zukünftige Entwicklung der regionalen Bildungsteilhabe und des qualifikationsspezifischen Arbeitskräfteangebots in Nordrhein-Westfalen, mit Fokus auf dem Ruhrgebiet, dargestellt. Es wird geprüft, in welchem Ausmaß in NRW und im RVR Gebiet zukünftig ein Missverhältnis zwischen den Arbeitskräften, die in den Ruhestand gehen und denen, die sie ersetzen können, besteht.
 draft: false
 featured: false
 authors:
   - admin
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
