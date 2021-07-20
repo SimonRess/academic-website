@@ -1,5 +1,11 @@
 ---
 title: Influence of the general statutory minimum wage on membership in a trade union
+tags:
+- Labour Market
+- Modern Causal Analysis
+- Difference-in-Differences
+- Propensity Score Matching
+- Panel Data Analysis
 date: 2021-07-19T22:49:11.902Z
 summary: >-
   Objective: The aim of the research project is to examine whether the
@@ -14,7 +20,6 @@ featured: false
 authors:
   - admin
   - florian-spohr
-tags: ["Labour Market", "Modern Causal Analysis", "Difference-in-Differences", "Propensity Score Matching", "Panel Data Analysis"]
 external_link: ""
 image:
   filename: featured
