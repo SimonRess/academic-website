@@ -9,6 +9,7 @@ featured: false
 authors:
   - admin
   - kathaina-boehm
+tags: ["Health", "Panel Data Analysis"]
 categories: []
 external_link: ""
 image:
