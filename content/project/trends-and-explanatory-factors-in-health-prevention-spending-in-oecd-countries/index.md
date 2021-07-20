@@ -8,7 +8,7 @@ draft: false
 featured: false
 authors:
   - admin
-  - kathaina-boehm
+  - katharina-boehm
 tags: ["Health", "Panel Data Analysis"]
 categories: []
 external_link: ""
@@ -27,4 +27,4 @@ Goal: In this project development trends will be investigated prevention spendin
 
 Final paper: 
 
-* [Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern? Trends und Erklärungsfaktoren der Präventionsausgaben](https://www.simon-ress.de/publication/pravention-als-neues-paradigma-der-gesundheitspolitik-in-oecd-landern-trends-und-erklarungsfaktoren-der-praventionsausgaben/)
+* (2018) [Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern? Trends und Erklärungsfaktoren der Präventionsausgaben](https://www.simon-ress.de/publication/pravention-als-neues-paradigma-der-gesundheitspolitik-in-oecd-landern-trends-und-erklarungsfaktoren-der-praventionsausgaben/)
