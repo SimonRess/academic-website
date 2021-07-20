@@ -13,6 +13,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Date: 1 February 2019 - ongoing
+
 Goal: The project analyses the presence and influence of interest groups, corporations, policy experts and other actors in the German parliament (Bundestag).
 
 
