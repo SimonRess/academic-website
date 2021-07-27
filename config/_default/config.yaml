@@ -24,7 +24,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-    - path: github.com/SimonRess/wowchemy-widget-featured_projects # my widget inspired by https://lofnadi.github.io/, build with https://wowchemy.com/docs/widget/custom/
+    # - path: github.com/SimonRess/wowchemy-widget-featured_projects # my widget inspired by https://lofnadi.github.io/, build with https://wowchemy.com/docs/widget/custom/
 
 ############################
 ## ADVANCED
