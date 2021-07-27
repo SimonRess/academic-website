@@ -10,5 +10,3 @@ weight: 1
 
 title: Featured Projects
 ---
-
-Welcome to my new widget!
