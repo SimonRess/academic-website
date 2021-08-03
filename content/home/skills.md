@@ -24,10 +24,18 @@ feature:
   icon: python
   icon_pack: fab
   name: python
-- description: 100%
-  icon: chart-line
+- description: Statistics / ML
+  icon: project-diagram  #sitemap / chart-line
   icon_pack: fas
   name: 6 years
+- description: Data Visualization
+  icon: chart-pie
+  icon_pack: fas
+  name: 4 years
+- description: Modern Causal Analysis
+  icon: brain
+  icon_pack: fas
+  name: 3 years
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
