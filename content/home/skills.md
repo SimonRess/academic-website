@@ -23,19 +23,23 @@ feature:
 - description: 1 year
   icon: python
   icon_pack: fab
-  name: python
-- description: Statistics / ML
+  name: Python
+- description: 6 years
   icon: project-diagram  #sitemap / chart-line
   icon_pack: fas
-  name: 6 years
-- description: Data Visualization
-  icon: chart-pie
-  icon_pack: fas
-  name: 4 years
-- description: Modern Causal Analysis
+  name: Statistics / ML
+- description: 3 years
   icon: brain
   icon_pack: fas
-  name: 3 years
+  name: Modern Causal Analysis
+- description: 4 years
+  icon: chart-pie
+  icon_pack: fas
+  name: Data Visualization
+- description: 3 years
+  icon: file-contract
+  icon_pack: fas
+  name: Automated reporting
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
