@@ -70,7 +70,7 @@ This workshop therefore first introduces its basics and discusses problems of co
   title: Kausale Mediationsanalyse
   url: https://training.gesis.org/?site=pDetails&child=full&pID=0xF2E36E998EBB4B9E9E527143D26B122E
   
-- certificate_url: 
+- certificate_url: https://github.com/SimonRess/academic-website/blob/master/assets/media/certificates/2021%20-%20Using%20Directed%20Acyclic%20Graphs%20for%20Causal%20and%20Statistical%20Inference.pdf
   date_end: "2021-07-28"
   date_start: "2021-07-30"
   description: "This course uses causal graphs as a remarkably simple, yet general and powerful framework to describe and discuss a large set of problems that empirical social scientists need to tackle. How can I communicate my assumptions effectively to others, and can I test them? How can I tell correlation from causation? How do I choose control variables for my regression models? After discussing how DAGs can be used to answer these foundational questions, the course also covers basics of causal mediation, instrumental variables, nonresponse/selection bias (and adjustments for it), and panel data analysis from a 'graphical' perspective."
