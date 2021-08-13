@@ -25,7 +25,7 @@ date_format: 01/02/06 #Jan 2006
 item:
 - certificate_url: https://github.com/SimonRess/academic-website/blob/2ff04355843aecfb8882ca9f9ac052e24511cd3d/assets/media/certificates/2020-Building%20Web%20Applications%20with%20Shiny%20in%20R.pdf
   date_end: "2020-04-01"
-  date_start: "2020-04-01"
+  date_start: #"2020-04-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
