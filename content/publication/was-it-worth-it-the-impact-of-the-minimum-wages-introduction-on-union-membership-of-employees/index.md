@@ -1,12 +1,13 @@
 ---
 title: Was it worth it? The impact of the minimum wages' introduction on union
-  membership of employees (upcoming)
+  membership of employees
 subtitle: ""
 publication_types:
   - "2"
 authors:
   - admin
   - florian-spohr
+doi: https://doi.org/10.1177/0143831X211035828
 publication: In *Economic and Industrial Democracy*
 publication_short: In *EID*
 abstract: This contribution scrutinises how introducing a statutory minimum wage
@@ -38,5 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-07-15T19:07:04.006Z
+date: 2021-07-15T19:07:00.000Z
 ---
