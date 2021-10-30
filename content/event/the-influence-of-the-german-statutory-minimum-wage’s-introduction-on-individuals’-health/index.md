@@ -14,7 +14,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: logo-56-dgsmp-jahrestagung.png
   focal_point: Smart
   preview_only: false
 ---
