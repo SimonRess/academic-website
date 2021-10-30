@@ -27,8 +27,6 @@ abstract: "Vor dem Hintergrund der Zunahme chronischer Krankheiten wird
   diseases and the number of practicing physicians."
 location: |
   Universität Kassel
-  Mönchebergstraße 19
-  34109 Kassel
 date: 2017-04-27T15:40:23.185Z
 date_end: 2017-04-28T15:40:00.000Z
 all_day: true
@@ -43,7 +41,7 @@ authors:
   - admin
   - katharina-boehm
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
