@@ -1,7 +1,11 @@
 ---
 title: The Influence of the German Statutory Minimum Wage’s Introduction on
   Individuals’ Health
-abstract: test
+abstract: This contribution scrutinises how introducing a statutory minimum wage
+  of EUR 8.50 per hour, in January 2015, impacted Individuals’ Health. Based on
+  representative data from the Labour Market and Social Security panel, the
+  study applies linear and logistic difference-in-differences propensity score
+  matching approaches on several different health outcomes.
 location: Leipzig
 date: 2021-09-22T08:00:00.000Z
 date_end: 2021-09-24T16:00:00.000Z
