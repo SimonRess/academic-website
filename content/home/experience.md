@@ -34,7 +34,7 @@ experience:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Deploying Web Apps
         
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
@@ -47,6 +47,7 @@ experience:
         Responsibilities include:
         
         * Web-Scraping
+        * Deploying Desktop Apps
         * Analysing
         * Teaching
 
