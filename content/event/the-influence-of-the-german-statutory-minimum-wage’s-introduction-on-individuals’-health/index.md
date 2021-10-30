@@ -14,9 +14,10 @@ featured: false
 authors:
   - admin
 image:
-  filename: logo-56-dgsmp-jahrestagung.png
+  filename: logo-56jahrestagung-dgsmp.png
   focal_point: Smart
   preview_only: false
+  caption: https://psychiatrie-verlag.de/wp-content/uploads/2020/02/DGSMP-Jahrestagung.png
 ---
 **Purpose:** The introduction of the statutory minimum wage in Germany on January 1st. 2015 represents one of the sharpest interventions of labour market policy since world war II. Although influenced by many factors, employment and working conditions comprise important determinants for individual health like working hours, salary, workplace policies or company manners. Therefore, the question arises whether individual health is affected by introducing the minimum wage and if so through which channels this effect is mediated<sup>1</sup>.
 
