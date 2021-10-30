@@ -1,10 +1,12 @@
 ---
+# Displayed on event page & if no summary is supplied on main page
 abstract: In diesem Vortrag werden die Analysemethode und -ergebnisse des
   Einflusses ökonomischer Faktoren auf die Bereitschaft, zum politischen
   Engagement, vorgestellt.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+# Displayed on main page
+summary: In diesem Vortrag werden die Analysemethode und -ergebnisse des Einflusses ökonomischer Faktoren auf die Bereitschaft, zum politischen Engagement, vorgestellt.
 title: Ökonomische Selektivität im politischen Engagement
 location: Universität Potsdam
 date: 2020-03-06T14:00:00.000Z
