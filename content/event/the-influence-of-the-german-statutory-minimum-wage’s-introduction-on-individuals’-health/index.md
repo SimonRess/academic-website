@@ -1,7 +1,7 @@
 ---
 title: The Influence of the German Statutory Minimum Wage’s Introduction on
   Individuals’ Health
-abstract: " "
+abstract: test
 location: Leipzig
 date: 2021-09-22T08:00:00.000Z
 date_end: 2021-09-24T16:00:00.000Z
