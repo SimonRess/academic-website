@@ -12,7 +12,7 @@ publishDate: 2021-10-30T13:14:10.151Z
 draft: false
 featured: false
 authors:
-  - Simon Ress
+  - admin
 image:
   filename: featured
   focal_point: Smart
