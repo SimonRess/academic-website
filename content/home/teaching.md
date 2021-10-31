@@ -33,10 +33,11 @@ _[Political Science Section](https://www.sowi.rub.de/sektionen/powi/index.html.e
 
 _[Methodenzentrum](https://methodenzentrum.ruhr-uni-bochum.de/)_
 
-+ (Workshop) Web-Scraping in R (Winter ‘20) [Link](https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/)
-+ (Workshop) (Web-)Apps with R-Shiny (Winter ‘20) [Link](https://github.com/SimonRess/W-Web-Apps-with-R-Shiny)
-+ (Workshop) Introduction to R (Winter ‘20) [Link](https://github.com/SimonRess/W-Introduction-to-R)
-+ (Workshop) Moderne Kausalanalyse. Rubin Causal Model und Directed Acyclic Graphs (Winter ‘18) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x3C822B33BDC74E41BFCFC3C42254CC2F&from=vvz&mode=own&tabID=2&tguid=0x63AFB79AE0C44D2B962D450F2AE41038&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de)
++ (Workshop) Working with Strings in R (Winter ‘21) [Slides](https://github.com/SimonRess/W-Working-with-Strings-in-R/blob/main/Slides/Slides.pdf)
++ (Workshop) Web-Scraping in R (Winter ‘21, Summer ‘21) [Slides](https://github.com/SimonRess/W-Web-Scraping-in-R/blob/main/Slides/Slides.pdf)
++ (Workshop) (Web-)Apps with R-Shiny (Winter ‘21, Summer ‘21) [Slides](https://github.com/SimonRess/W-Web-Apps-with-R-Shiny/blob/main/Slides/Slides.pdf)
++ (Workshop) Introduction to R (Summer ‘21, Winter ‘20, Summer ‘20) [Slides](https://github.com/SimonRess/W-Introduction-to-R/blob/main/Slides/Introduction%20to%20R.pdf)
++ (Workshop) Moderne Kausalanalyse. Rubin Causal Model und Directed Acyclic Graphs (Winter ‘18) [Link](https://github.com/SimonRess/W-Modern-Causal-Analysis)
 
 
 <h2>Ruhr-Universität Bochum</h2>
