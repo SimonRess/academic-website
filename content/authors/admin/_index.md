@@ -36,7 +36,7 @@ social:
     link: https://orcid.org/0000-0001-7325-7462
 organizations:
   - name: Ruhr-Universität Bochum
-    url: https://www.sowi.rub.de/pw2/team/ress.html.de
+    url: https://www.sowi2.rub.de/pw2/team/ress.html.de
 education:
   courses:
     - course: M.A. in Methods of Social Research
