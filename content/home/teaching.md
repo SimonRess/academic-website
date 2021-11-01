@@ -19,9 +19,9 @@ weight = 57
 +++
 <h2>Ruhr-Universität Bochum</h2>
 
-_[Political Science Section](https://www.sowi.rub.de/sektionen/powi/index.html.en)_
+_[Political Science Section](https://www.sowi.ruhr-uni-bochum.de/lehre/pw/ueber.html.de)_
 
-+ (Master) Health policy in international comparison – Instructor (Summer ‘21) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x307D284140BC4CBA929D7F31E40A59AE&from=vvz&mode=own&tabID=2&tguid=0x9A7B3E5DBFE949E6A3541F86071B243D&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de) / [Evl.](https://github.com/SimonRess/academic-website/blob/master/assets/media/evaluations/21SS%20-%20S%20Health%20policy%20in%20international%20comparison%20(G%26G%2C%20Teil%20I%3B%20PFA%2C%20Teil%20II%3B%20EDG%2C%20Teil%20II)_Auswertung.pdf)
++ (Master) Health policy in international comparison – Instructor (Summer ‘21) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x307D284140BC4CBA929D7F31E40A59AE&from=vvz&mode=own&tabID=2&tguid=0x9A7B3E5DBFE949E6A3541F86071B243D&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de) / [Eval.](https://github.com/SimonRess/academic-website/blob/master/assets/media/evaluations/21SS%20-%20S%20Health%20policy%20in%20international%20comparison%20(G%26G%2C%20Teil%20I%3B%20PFA%2C%20Teil%20II%3B%20EDG%2C%20Teil%20II)_Auswertung.pdf)
 + (Master) International comparison of labour market policies. Why do they differ? What impact does the EU have? – Instructor (Winter ‘20) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x58737C797CE8457EA547D1EA8C4973CF&from=vvz&mode=own&tabID=2&tguid=0x80B5E42E2E744540BF79A272358D1095&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de) / [Eval.](https://github.com/SimonRess/academic-website/blob/master/assets/media/evaluations/20WS%20-%20International%20comparison%20of%20labour%20market%20policies.%20Why%20do%20they%20differ_%20What%20impact%20does%20the%20EU%20have_%20(EDG%2C%20Teil%20I%3B%20FW%2C%20Teil%20II%3B%20PFA%2C%20Teil%20II)_Auswertung.pdf)
 + (Master) Erklärung unterschiedlicher Gesundheitspolitiken in Europa - Instructor(Summer ‘20) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&from=vvz&gguid=0x4E7E18F5C0BA428A944EFA91F595738B&mode=own&tguid=0x8CCD7D5E5FF243B0AE322230DFD659D2&lang=de)
 + (Bachelor) Arbeitsmarktpolitik im Vergleich – Instructor (Winter ‘19) [Link](https://vvz.ruhr-uni-bochum.de/campus/all/event.asp?gguid=0x226552BA9BE14586AD366FA526475D17&from=vvz&mode=own&tabID=1&tguid=0xF13C2A4A39064F2295BE2AE837945F8E&objgguid=0xAB8DAC4E65560A4C94A4A7984E02096E&lang=de) / [Eval.](https://github.com/SimonRess/academic-website/blob/master/assets/media/evaluations/WS19%20S%20Arbeitsmarktpolitik%20im%20Vergleich%20(VePoWi%2C%20Teil%20II)_Auswertung.pdf)
@@ -42,7 +42,7 @@ _[Methodenzentrum](https://methodenzentrum.ruhr-uni-bochum.de/)_
 
 <h2>Ruhr-Universität Bochum</h2>
 
-_[Social Policy & Social Economy Section](https://www.sowi.rub.de/sektionen/sopooek/index.html.en)_
+_[Social Policy & Social Economy Section](https://www.sowi.ruhr-uni-bochum.de/lehre/sozpol/ueber.html.de)_
 
 + (Bachelor) Postkeynesianische Wirtschaftspolitik als Alternative zur ökonomischen Orthodoxie? – Instructor (Summer ‘16)
 
