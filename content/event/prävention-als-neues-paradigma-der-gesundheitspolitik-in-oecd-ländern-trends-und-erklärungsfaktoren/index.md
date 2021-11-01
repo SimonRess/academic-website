@@ -32,8 +32,7 @@ date_end: 2017-04-28T15:40:00.000Z
 all_day: true
 event: 'Tagung "Aktivierend – investiv – prädistributiv: Neue Paradigmen in der
   Sozialpolitik(forschung)?" - Deutsche Vereinigung für Politikwissenschaft'
-event_url: Prävention als neues Paradigma der Gesundheitspolitik in
-  OECD-Ländern? Trends und Erklärungsfaktoren.
+event_url: https://www.boell-hessen.de/aktivierend-investiv-praedistributiv-neue-paradigmen-der-sozialpolitikforschung/?bw=1?bw/feed/feed/feed/
 publishDate: 2021-07-15T15:40:23.198Z
 draft: false
 featured: false
