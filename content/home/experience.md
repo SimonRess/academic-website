@@ -40,7 +40,7 @@ experience:
         
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Social Science Data Analysis
-    company_url: 'https://www.methoden.ruhr-uni-bochum.de/sozialwissenschaftliche-datenanalyse.html'
+    company_url: 'https://www.methoden.ruhr-uni-bochum.de/en/social-science-data-analysis/staff/m-a-simon-ress.html'
     company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2019-07-01'
@@ -54,7 +54,7 @@ experience:
         
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
-    company_url: 'http://www.sowi2.rub.de/pw2/'
+    company_url: 'http://www4.rz.rub.de:8503/pw2/team/ress.html.de'
     company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2018-07-01'
@@ -71,7 +71,7 @@ experience:
     company: Ruhr-Universität Bochum - Chair for Health Policy
     company_url: ''
     company_logo: RUB-logo
-    location: Bochum
+    location: Ratingen
     date_start: '2016-07-01'
     date_end: '2018-03-01'
     description: |2-
@@ -84,7 +84,7 @@ experience:
 
   - title: Student Assistant
     company: Ruhr-Universität Bochum - Chair for Social Policy and Public Economics
-    company_url: ''
+    company_url: 'http://www.sowi2.rub.de/sozialpolitik/'
     company_logo: RUB-logo
     location: Bochum
     date_start: '2012-02-01'
