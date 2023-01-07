@@ -39,10 +39,6 @@ social:
     link: /#contact
     
 organizations:
-<!--- 
-  - name: Ruhr-Universität Bochum
-    url: https://www.sowi2.rub.de/pw2/team/ress.html.de
---->
   - name: MT Gmbh
     url: https://www.mt-itsolutions.com/
     
@@ -58,6 +54,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+
 I am a passionate data science enthusiast with very good knowledge of a wide range of experience in R and Python implementations and libraries. I am currently employed at MT AG as a data scientist. My range of activities includes the areas of data acquisition via web scraping, processing, structuring and visualization of this data, as well as their evaluation with methods of modern causal analysis or ML algorithms. In order to realize these projects, I regularly take on the conception and leadership of teams.
 
 Furthermore, I'm working on my PhD thesis at the chairs of Comparative Politics & Social Science Data Analysis, Ruhr-Universität Bochum. My main research interests are labour market policies and their effects on individual health and interest groups and lobbyism. I have published articles on interest groups and prevention policies.
