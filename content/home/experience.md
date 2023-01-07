@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist
+    company: MT AG GmbH
+    company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
+    company_logo: 'MTAG-logo'
+    location: Bochum
+    date_start: '2022-02-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Building Machine Learning Models
+        * Developing IT-Architecture
+        * Optimizing Code / Performance Improvments
+        * Deploying Web Apps
+        
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Social Science Data Analysis
-    company_url: ''
+    company_url: 'https://www.methoden.ruhr-uni-bochum.de/sozialwissenschaftliche-datenanalyse.html'
     company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2019-07-01'
-    date_end: ''
+    date_end: '2021-11-30'
     description: |2-
         Responsibilities include:
         
@@ -38,11 +54,11 @@ experience:
         
   - title: Research Assistant
     company: Ruhr-Universität Bochum - Chair for Comparative Politics
-    company_url: ''
+    company_url: 'http://www.sowi2.rub.de/pw2/'
     company_logo: 'RUB-logo'
     location: Bochum
     date_start: '2018-07-01'
-    date_end: ''
+    date_end: '2021-11-30'
     description: |2-
         Responsibilities include:
         
