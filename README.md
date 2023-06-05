@@ -1,5 +1,5 @@
 # Tasks:
-- [ ] add Workshop https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/
+- [ ] add Workshop [https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/archiv/web-scraping-in-r/](https://methodenzentrum.ruhr-uni-bochum.de/veranstaltungen/veranstaltungsdetails/web-scraping-in-r_ws-20-21_mzw2466/)
 - [ ] add "Teaching"-Tab to the menu 
 
 -------------------------
