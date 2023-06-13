@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist
-    company: MT AG GmbH
+    company: MT GmbH
     company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
     company_logo: 'MTAG-logo'
-    location: Bochum
+    location: Ratingen
     date_start: '2023-01-01'
     date_end: ''
     description: |2-
@@ -39,10 +39,10 @@ experience:
         * Deploying Web Apps
         
   - title: Junior Data Scientist
-    company: MT AG GmbH
+    company: MT GmbH
     company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
     company_logo: 'MTAG-logo'
-    location: Bochum
+    location: Ratingen
     date_start: '2022-02-01'
     date_end: '2022-12-31'
     description: |2-
