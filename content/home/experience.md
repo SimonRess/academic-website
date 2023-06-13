@@ -38,7 +38,7 @@ experience:
         * Optimizing Code / Performance Improvments
         * Deploying Web Apps
         
-  - title: *Junior* Data Scientist
+  - title: Junior Data Scientist
     company: MT AG GmbH
     company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
     company_logo: 'MTAG-logo'
