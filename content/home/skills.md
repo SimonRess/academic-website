@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 4 years
+- description: 5 years
   icon: r-project
   icon_pack: fab
   name: R
-- description: 1 year
+- description: 2 year
   icon: python
   icon_pack: fab
   name: Python
-- description: 6 years
+- description: 7 years
   icon: project-diagram  #sitemap / chart-line
   icon_pack: fas
   name: Statistics / ML
-- description: 3 years
+- description: 4 years
   icon: brain
   icon_pack: fas
   name: Modern Causal Analysis
-- description: 4 years
+- description: 5 years
   icon: chart-pie
   icon_pack: fas
   name: Data Visualization
-- description: 3 years
+- description: 4 years
   icon: file-contract
   icon_pack: fas
   name: Automated reporting
