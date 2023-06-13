@@ -27,8 +27,24 @@ experience:
     company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
     company_logo: 'MTAG-logo'
     location: Bochum
-    date_start: '2022-02-01'
+    date_start: '2023-01-01'
     date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing / Building Machine Learning Models
+        * Conceptual Development / Project Management
+        * Developing IT-Architecture
+        * Optimizing Code / Performance Improvments
+        * Deploying Web Apps
+        
+  - title: *Junior* Data Scientist
+    company: MT AG GmbH
+    company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
+    company_logo: 'MTAG-logo'
+    location: Bochum
+    date_start: '2022-02-01'
+    date_end: '2022-12-31'
     description: |2-
         Responsibilities include:
         
