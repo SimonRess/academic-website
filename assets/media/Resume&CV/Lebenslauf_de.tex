@@ -1,0 +1,523 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Classicthesis-Styled CV
+% LaTeX Template
+% Version 1.0 (22/2/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Alessandro Plasmati
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{scrartcl} %in packages "koma-script" installation über "Miktex Console"
+
+\usepackage[utf8]{inputenc}
+\usepackage[english,ngerman]{babel} %Für deutsches Datum
+
+%LOGO EINBINDEN
+	\usepackage{graphicx} %Zur Einbindung von Grafiken -> Logos der Programme
+	
+	\newcommand*{\logo}[1]{%
+  		\raisebox{-.3\baselineskip}{%
+    		\includegraphics[
+      		height=\baselineskip,
+      		width=\baselineskip,
+      		keepaspectratio,
+    		]{#1}%
+  		}%
+	}
+
+\reversemarginpar % Move the margin to the left of the page 
+
+\newcommand{\MarginText}[1]{\marginpar{\raggedleft\itshape\small#1}} % New command defining the margin text style
+
+\usepackage[nochapters]{classicthesis} % Use the classicthesis style for the style of the document
+\usepackage[LabelsAligned]{currvita} % Use the currvita style for the layout of the document
+
+\renewcommand{\cvheadingfont}{\LARGE\color{Maroon}} % Font color of your name at the top
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\hypersetup{colorlinks, breaklinks, urlcolor=Maroon, linkcolor=Maroon} % Set link colors
+
+\newlength{\datebox}\settowidth{\datebox}{Spring 2011} % Set the width of the date box in each block
+
+\newcommand{\NewEntry}[3]{\noindent\hangindent=2em\hangafter=0 \parbox{\datebox}{\small \textit{#1}}\hspace{1.5em} #2 #3 % Define a command for each new block - change spacing and font sizes here: #1 is the left margin, #2 is the italic date field and #3 is the position/employer/location field
+\vspace{0.5em}} % Add some white space after each new entry
+
+\newcommand{\Description}[1]{\hangindent=2em\hangafter=0\noindent\raggedright\footnotesize{#1}\par\normalsize\vspace{1em}} % Define a command for descriptions of each entry - change spacing and font sizes here
+
+
+\pagestyle{empty} % Entfernt Kopf- & Fußzeilen -> Unterdrückt damit Seitenzahl
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+% "PDFLatex" zum kompilierenkompilieren verwenden
+
+\thispagestyle{empty} % Stop the page count at the bottom of the first page
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{cv}
+{\spacedallcaps{Simon Ress}}\vspace{1.5em} % Your name
+
+\noindent\spacedlowsmallcaps{Persönliche Informationen}\vspace{0.5em} % Personal information heading
+
+\NewEntry{}{\textit{Geboren in Deutschland,}}{29 Juni 1989} % Birthplace and date
+
+\NewEntry{E-Mail}{\href{mailto:simon.ress@rub.de}{Simon.Ress@rub.de}} % Email address
+
+\NewEntry{GitHub}{\href{https://github.com/SimonRess}{github.com/simonress}} % GitHub account
+
+\NewEntry{Website}{\href{https://simon-ress.de/}{www.simon-ress.de}} % Personal website
+
+
+
+%\NewEntry{phone}{(H) + (000) 111 1111\ \ $\cdotp$\ \ (M) +1 (000) 111 1112} % Phone number(s)
+
+\NewEntry{Telefon}{ (M) +49 (170) 9948 220} % Phone number(s)
+
+\vspace{1em} % Extra white space between the personal information section and goal
+
+%\noindent\spacedlowsmallcaps{Goal}\vspace{1em} % Goal heading, could be used for a quotation or short profile %instead
+
+%\Description{Gain fundamental experience in my area of interest and expertise.}\vspace{2em} % Goal text
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\noindent\spacedlowsmallcaps{Bildungsweg}\vspace{1em}
+
+\NewEntry{2016-2019}{Ruhr-Universität Bochum, Bochum}
+
+\Description{\MarginText{Master of Arts}\textit{Studienprogramm: Methoden der Sozialforschung}\ \ $\cdotp$\ \ Fakultät: Sozialwissenschaft \newline 
+Abschlussnote: 1,1 \ \ $\cdotp$\ \ Thesis: \textit{Gesundheit und Mindestlohn. Eine Mediationsanalyse des Effekts der Einführung des Mindestlohns auf die Gesundheit der Betroffenen }\newline
+In dieser Arbeit wurden auf Basis des Panels für Arbeitsmarkt und Soziale Sicherung die kausalen Einflusskanäle der Einführung des Mindestlohns auf die Gesundheit der Betroffenen untersucht. Verwendet wurden Mediationsanalysen auf Basis von linearen und logistischen Differenz-in-Differenzen Propensity Score Matching Modellen. \newline
+Gutachterinnen: Prof.~Dr.~Cornelia \textsc{Weins} \& Prof.~Dr.~Katharina \textsc{Böhm}}
+%Thesis: \textit{Money Is The Root Of All Evil -- Or Is It?}\newline
+%Description: This thesis explored the idea that money has been the cause of untold anguish and suffering in the world. I found that it has, in fact, not.\newline
+%Advisors: Prof.~James \textsc{Smith} \& Assoc. Prof.~Jane \textsc{Smith}}
+
+%------------------------------------------------
+
+\NewEntry{2009-2016}{Ruhr-Universität Bochum, Bochum}
+
+\Description{\MarginText{Bachelor of Arts}\textit{1-Fach Sozialwissenschaft}\ \ $\cdotp$\ \ Fakultät: Sozialwissenschaft\ \ $\cdotp$\ \ Abschlussnote: 1,3 \newline 
+Thesis: \textit{Wiederbeschäftigung und Gesundheit vor und nach den sogenannten Hartz-Reformen.}\newline
+In dieset Arbeit wurde Mithilfe des Sozio-ökonomischen Panels der Zusammenhang zwischen Gesundheit und Wiederbeschäftigung von Arbeitslosen vor und nach den sogenannten Hartz-Reformen untersucht.\newline
+Gutachterinnen: Prof.~Dr.~Katharina \textsc{Böhm} \& Prof.~Dr.~Notburga \textsc{Ott}}
+
+%------------------------------------------------
+
+\NewEntry{März 2008}{Viktoriaschule, Essen}
+
+\Description{\MarginText{Abitur}Abschlussnote 2,7 \ \ $\cdotp$\ \ \textit{Leistungskurse: Mathematik und Biologie}\newline }
+
+
+%------------------------------------------------
+
+
+%\vspace{1em} % Extra space between major sections
+
+
+%----------------------------------------------------------------------------------------
+%	Lehre / Lehraufträge
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Lehre}\vspace{1em}
+
+\NewEntry{2021 (SS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Health policy in international comparison (Seminar)}
+
+%------------------------------------------------
+
+\NewEntry{2020/21 (WS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}International comparison of labour market policies. Why do they differ? What impact does the EU have? (Seminar)}
+
+%------------------------------------------------
+
+\NewEntry{2020 (SS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Erklärung unterschiedlicher Gesundheitspolitiken in Europa (Seminar)}
+
+%------------------------------------------------
+
+\NewEntry{2019/20 (WS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Arbeitsmarktpolitik im Vergleich (Seminar)}
+
+%------------------------------------------------
+
+\NewEntry{2019 (SS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Gesundheitspolitik im Vergleich (Seminar)}
+
+%------------------------------------------------
+
+
+\newpage % new page at this place /alternative: \pagebreak % new page and spread content before over whole page
+
+
+
+\NewEntry{2018/19 (WS)}{\textsc{Sektion Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Methoden der Vergleichenden Politikwissenschaft (Seminar)}
+
+%------------------------------------------------
+
+\NewEntry{2018/19 (WS)}{\textsc{Fakultät für Sozialwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Methoden der modernen Kausalanalyse (Workshop)}
+
+%------------------------------------------------
+
+\NewEntry{2014-2018 (WS)}{Lehrbeauftragter, \textsc{Romanisches Seminar}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Seminar im Rahmen der Veranstaltungen für	L.E.A.-Studierende des Romanischen Instituts.}
+
+%------------------------------------------------
+
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Arbeitserfahrung}\vspace{1em}
+
+\NewEntry{2023--heute}{Data Science Consultant, ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ \textsc{Bereich: Data Analytics}}
+
+\Description{\MarginText{MT GmbH ~~~~ (Ratingen)}Data Science Projekte im Bereich Krankenversicherung (\textit{Health monitoring at regional level \& Data Quality Improvments by Anomaly Detection}) \\ Referenz: Ralf \textsc{Böhme}\ \ +49 (2102) 30 961-162 \ \ $\cdotp$\ \ \href{mailto:ralf.boehme@mt-ag.com}{ralf.boehme@mt-ag.com}}
+
+%------------------------------------------------
+
+\NewEntry{2022}{\textit{Junior} Data Science Consultant, ~~~~~~~~~~~~~~~ \textsc{Bereich: Data Analytics}}
+
+\Description{\MarginText{MT GmbH ~~~~ (Ratingen)}Data Science Projekte im Bereich Mobilitätsdienstleitung (\textit{Prediction of Credit Default Risks}) und Krankenversicherung (\textit{Prediction of Morbidity at Regional Level}) \\ Referenz: Ralf \textsc{Böhme}\ \ +49 (2102) 30 961-162 \ \ $\cdotp$\ \ \href{mailto:ralf.boehme@mt-ag.com}{ralf.boehme@mt-ag.com}}
+
+%------------------------------------------------
+
+\NewEntry{2019--2021}{Wissenschaftlicher Mitarbeiter, ~~~~~~~~~~~~~~~ \textsc{Lehrstuhl für Sozialwissenschaftliche Datenanalyse}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Forschung in Drittmittelprojekt \textit{Bildungs- und Qualifikationsraum Ruhr 2040} (Auftraggeber: Stiftung Mercator) \\ Referenz: Prof.~Dr.~Jörg Peter \textsc{Schräpler}\ \ +49 (234) 32-29835 \ \ $\cdotp$\ \ \href{mailto:joerg-peter.schraepler@rub.de}{Joerg-Peter.Schraepler@rub.de}}
+
+%------------------------------------------------
+
+\NewEntry{2018--2021}{Wissenschaftlicher Mitarbeiter, ~~~~~~~~~~~~~~~ \textsc{Lehrstuhl für Vergleichende Politikwissenschaft}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Beantragung von und Forschung in Projekten, Erstellung von Artikeln und eigenständige Lehre. \\ Referenz: Prof.~Dr.~Rainer \textsc{Eising}\ \ +49 (234) 32-25172 \ \ $\cdotp$\ \ ~~~~~~~~~~~~~~~\href{mailto:Rainer.Eising@rub.de}{Rainer.Eising@rub.de}}
+
+%------------------------------------------------
+
+\NewEntry{2016--2020}{Berater}
+
+\Description{\MarginText{Freiberufliche Tätigkeit}Tätigkeit im Bereich statistische Analyse und Beratung, z.B. hr\& c (Bochum). \\ Referenz: Prof.~Dr.~Andreas \textsc{Blume}\ \ +49 (234) 9711299 \ \ $\cdotp$\ \ \href{mailto:andreas.blume@hruc.de}{Andreas.Blume@hruc.de}}
+
+%------------------------------------------------
+
+\NewEntry{2016--2018}{Studentische/wissenschaftliche Hilfskraft, \textsc{Juniorprofessur für Gesundheitspolitik}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Forschung in Projekten, Mitarbeit bei Artikeln und Organisationstätigkeiten. \\ Referenz: Prof.~Dr.~Katharina \textsc{Böhm}\ \ +49 (234) 32-22168 \ \ $\cdotp$\ \ \href{mailto:Katharina.boehm@rub.de}{Katharina.Boehm@rub.de}}
+
+%------------------------------------------------
+
+\NewEntry{2012--2018}{Studentische/wissenschaftliche Hilfskraft, \textsc{Sektion für Sozialpolitik und Sozialökonomie}}
+
+\Description{\MarginText{Ruhr-Universität Bochum}Forschung in internen und Drittmittelprojekten, sowie strukturierte Betreuungen und Organisationstätigkeiten. \\ Referenz: Prof.~Dr.~Notburga \textsc{Ott}\ \ +49 (234) 32-22971\ \ $\cdotp$\ \ ~~~~~~~~~~~~~~~\href{mailto:Notburga.Ott@ruhr-uni-bochum.de}{Notburga.Ott@rub.de}}
+
+%------------------------------------------------
+
+%\NewEntry{April 2009--August 2009}{Mitarbeiter, \textsc{Abteilung Marketing}}
+%
+%\Description{\MarginText{Berufsförderungs- zentrum Essen}Worked in the Nerd Herd and helped to solve computer %problems by asking customers to turn their computers off and on again. \\ Reference: Big \textsc{Mike}\ \ +1 %(000) 111 1111\ \ $\cdotp$\ \ \href{mailto:mike@buymore.com}{mike@buymore.com}}
+
+%------------------------------------------------
+
+%\NewEntry{Juli 2008--März 2009}{Zivildienstleistender}
+%
+%\Description{\MarginText{Berufsförderungs- zentrum Essen}Worked in the Nerd Herd and helped to solve computer %problems by asking customers to turn their computers off and on again. \\ Reference: Big \textsc{Mike}\ \ +1 %(000) 111 1111\ \ $\cdotp$\ \ \href{mailto:mike@buymore.com}{mike@buymore.com}}
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+
+\newpage % new page at this place /alternative: \pagebreak % new page and spread content before over whole page
+
+%----------------------------------------------------------------------------------------
+%	Praktika
+%----------------------------------------------------------------------------------------
+
+
+\spacedlowsmallcaps{Praktikum}\vspace{1em}
+
+\NewEntry{April--Juli 2016}{Statistische Analyse}
+
+\Description{\MarginText{Human Resources \& Change Management GmbH (Bochum)} \textsc{Projekt: Gesundheit von Führungskräften und Mitarbeitern} \newline
+Der Praktikumsgeber erstellt psychische Gefahrenbeurteilungen für Unternehmen. Im Rahmen eines Projektes zur wissenschaftlichen Evaluierung der Einflussfaktoren auf die psy. Gesundheit der Mitarbeiter übernahm ich die methodischen Arbeiten: Erstellung eines Datensatzes aus den Unternehmensstudien der letzten 10 Jahre, die deskriptive Auswertung, Datenreduktion mittels Faktorenanalysen und die multivariate Analyse inklusive multipler Imputationen fehlender Werte.   \\ Referenz: Prof.~Dr.~Andreas \textsc{Blume}\ \ $\cdotp$\ \ +49 (234) 9711299\ \ $\cdotp$\ \ \href{mailto:andreas.blume@hruc.de}{Andreas.Blume@hruc.de}}
+
+%------------------------------------------------
+
+
+\vspace{1em} % Extra space between major sections
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Publikationen}\vspace{1em}
+
+\NewEntry{Sep. 2021}{Was it worth it? The impact of the German minimum wage on union membership of employees}
+
+\Description{\MarginText{Economic and Industrial Democracy} This contribution scrutinises how introducing a statutory minimum wage of EUR 8.50 per hour, in January 2015, impacted German employees’ decision with regard to union membership. Based on representative data from the Labour Market and Social Security panel, the study applies a logistic difference-in-differences propensity score matching approach on entries into and withdrawals from unions in the German Trade Union Confederation. ~~~~~~~~  
+DOI: 10.1177/0143831X211035828 \\
+Autoren: Simon \textsc{Ress}, ~Florian \textsc{Spohr}}
+
+
+\NewEntry{Aug. 2020}{Uncovering interest group participation in Germany: web collection of written statements in ministries and the parliament}
+
+\Description{\MarginText{Interest Groups \& Advocacy} This article discusses web collection of interest group statements on bills as a data source. These data also can contribute to the measurement of interest groups’ influence on legislation. Taking web collection from the German parliament’s and ministries’ web pages as an example, we demonstrate the collection process and the merits and limitations of employing written statements as identificatory data. ~~~~~~~~~~~~~~~  
+DOI: 10.1057/s41309-020-00099-5 \\
+Autoren: Daniel \textsc{Rasch}, ~Florian \textsc{Spohr}, ~Rainer \textsc{Eising}, ~Simon \textsc{Ress}}
+
+
+\NewEntry{Sep. 2018}{Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern? Trends und Erklärungsfaktoren der Präventionsausgaben}
+
+\Description{\MarginText{Sozialer Fortschritt}In diesem Artikel werden mittels eines selbst erstellten Datensatzes die Einflussfaktoren für staatliche Präventionsausgaben geschätzt. Hierfür wird ein sogenanntes Hybrid-Modell verwendet, welches bei Paneldaten für die Schätzung von within- und between-Effekten verwendet werden kann. ~~~~~~~~  
+DOI: 10.3790/sfo.67.8-9.645 \\
+Autoren: Prof.~Dr.~Katharina \textsc{Böhm}, ~Simon \textsc{Ress}}
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+\newpage % new page at this place /alternative: \pagebreak % new page and spread content before over whole page
+
+%----------------------------------------------------------------------------------------
+%	Vorträge
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Vorträge}\vspace{1em}
+
+\NewEntry{22.--24.09.2021}{The Influence of the German Statutory Minimum Wage’s Introduction on Individuals’ Health \textsc{Das Soziale in Medizin und Gesellschaft – Aktuelle Megatrends fordern uns heraus (DGSMP)} }
+
+\Description{\MarginText{Leipzig} This contribution scrutinises how introducing a statutory minimum wage of EUR 8.50 per hour, in January 2015, impacted Individuals’ Health. Based on representative data from the Labour Market and Social Security panel, the study applies linear and logistic difference-in-differences propensity score matching approaches on several different health outcomes. \\ Autor: Simon \textsc{Ress}}
+
+%------------------------------------------------
+
+\NewEntry{06.--07.03.2020}{Ökonomische Selektivität im politischen Engagement. \textsc{Frühjahrstagung der Sektion Methoden der empirischen Sozialforschung (DGS)} }
+
+\Description{\MarginText{Potsdam} In diesem Vortrag werden die Analysemethode und -ergebnisse des Einflusses ökonomischer Faktoren auf die Bereitschaft, zum politischen Engagement, vorgestellt. \\ Autoren: Juliana \textsc{Witkowski} ,~Simon \textsc{Ress}}
+
+%------------------------------------------------
+
+\NewEntry{10.--11.10.2019}{Sieg oder Schwächung der Gewerkschaften? Die Auswirkungen des allgemeinen gesetzlichen Mindestlohns auf die Gewerkschaftsmitgliedschaft. \textsc{Interessenvertretung in der Sozialpolitik (DGS \& DVPW)} }
+
+\Description{\MarginText{Essen}Dieser Beitrag analysiert den Einfluss der Einführung des allgemeinen gesetzlichen Mindestlohns auf die Mitgliedschaft von abhängig Beschäftigten in den DGB Gewerkschaften mittels Paneldaten des Instituts für Arbeitsmarkt- und Berufsforschung. \\ Autoren: Simon \textsc{Ress}, ~Florian \textsc{Spohr} }
+
+%------------------------------------------------
+
+\NewEntry{05.--07.09.2019}{The German Statutory Minimum Wage's Impact on German Trade Unions' Membership. \textsc{Perspectives of Employment Relations in Europe (ILERA)} }
+
+\Description{\MarginText{Düsseldorf}Based on representative data from the panel ‘Labour Market and Social Security’ (PASS), we apply a difference-in-differences model on entries in and withdrawals from German DGB unions of employees who benefit from the minimum wage \\ Autoren: Simon \textsc{Ress}, ~Florian \textsc{Spohr} }
+
+%------------------------------------------------
+
+\NewEntry{27./28.04.2017}{Prävention als neues Paradigma der Gesundheitspolitik in OECD-Ländern? Trends und Erklärungsfaktoren. \textsc{Neue Paradigmen in der Sozialpolitikforschung (DVPW)}}
+
+\Description{\MarginText{Kassel}Vorgestellt wurden die Entwicklungspfade der Präventionspolitik in den OECD-Staaten, sowie die Determinanten dieser Entwicklung. \\ Autoren: Prof.~Dr.~Katharina \textsc{Böhm}, ~Simon \textsc{Ress}}
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+\newpage % new page at this place /alternative: \pagebreak % new page and spread content before over whole page
+
+%----------------------------------------------------------------------------------------
+%	Workshops
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Workshops}\vspace{1em}
+
+\NewEntry{WS21}{\href{https://github.com/SimonRess/W-Working-with-Strings-in-R}{Working with Strings in R}}
+
+\Description{\MarginText{Ruhr-Universität Bochum} This workshop introduces string manipulation using R. Basic concepts like detecting matches, managing lengths, subsetting and mutating of strings will be explained.}
+
+%------------------------------------------------
+
+\NewEntry{WS21,SS21}{\href{https://github.com/SimonRess/W-Web-Scraping-in-R}{Web-Scraping in R}}
+
+\Description{This workshop introduces in webscraping using R. Basic concepts like HTML, CSS, XML- \& CSS paths will be explained. Practical exercise in scraping static and dynamic websites (using browser automation by Selenium).}
+
+%------------------------------------------------
+
+\NewEntry{WS21,SS21}{\href{https://github.com/SimonRess/W-Web-Apps-with-R-Shiny}{(Web-)Apps with R-Shiny}}
+
+\Description{This workshop introduces the basics of reactive programming with R Shiny. Basic concepts such as the client-server architecture, efficient programming of the server and the user interface are explained. The creation of (web) apps is practiced in exercises.}
+
+%------------------------------------------------
+
+\NewEntry{SS21,WS20,SS20}{\href{https://github.com/SimonRess/W-Introduction-to-R}{Introduction to R}}
+
+\Description{This workshop introduces R, a free programming language for statistical computing, graphics, and data mining. The areas of data input and management as well as the basic statistics and graphics are explained.}
+
+%------------------------------------------------
+
+\NewEntry{WS18}{\href{https://github.com/SimonRess/W-Modern-Causal-Analysis}{Moderne Kausalanalyse. Rubin Causal Model und Directed Acyclic Graphs}}
+
+\Description{Introduction to the Rubin‘s causal model (RCM) and the concept of Directed Acyclic Graphs (DAG) based on it. These two tools form the basis of modern causal analysis in the empirical social sciences and are increasingly gaining acceptance in applied research.}
+
+%------------------------------------------------
+
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	Forschungsschwerpunkte
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Forschungsschwerpunkte}\vspace{1em}
+
+\Description{Wechselwirkungen von Arbeitsmarkt und Gesundheit}
+
+\Description{Einfluss von Sozialpolitik auf Gesundheit}
+
+\Description{Moderne Methoden der Kausalanalyse}
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	Weiterbildungen
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Weiterbildungen}\vspace{1em}
+
+\NewEntry{28.--30.07.2021}{Using Directed Acyclic Graphs for Causal \& Statistical Inference, \textsc{Köln}}
+
+\Description{\MarginText{GESIS}This course uses causal graphs as a remarkably simple, yet general and powerful framework to describe and discuss a large set of problems that empirical social scientists need to tackle. How can I communicate my assumptions effectively to others, and can I test them? How can I tell correlation from causation? How do I choose control variables for my regression models? After discussing how DAGs can be used to answer these foundational questions, the course also covers basics of causal mediation, instrumental variables, nonresponse/selection bias (and adjustments for it), and panel data analysis from a ‘graphical’ perspective.\\ Dozent: Julian \textsc{Schüssler} }
+
+%------------------------------------------------
+
+\newpage % new page at this place /alternative: \pagebreak % new page and spread content before over whole page
+
+\NewEntry{16.--18.09.2019}{Big Data: Introduction to Data Science with Python, \textsc{Mannheim}}
+
+\Description{\MarginText{GESIS}Participants learned about typical data types and structures encountered when dealing with digital behavioral data, state-of-the art data analysis methods and tools in Python. This enabled them to identify benefits and pitfalls in their field of interest and will thus allow them to select and appropriately apply data analysis and machine-learning methods for large datasets in their own research.\\ Dozenten: Dr. Fabian \textsc{Flöck}, Dr. Arnim \textsc{Bleier} }
+
+%------------------------------------------------
+
+\NewEntry{15.--17.11.2017}{Einführung in Methoden der modernen Kausalanalyse, \textsc{Köln}}
+
+\Description{\MarginText{GESIS}Der Kurs führte in die Theorie der modernen Kausalanalyse und die statistischen Methoden zur Schätzung von kausalen Effekten ein. Die Anwendung dieser wurde mittels Stata eingeübt, ebenso wie der Erstellung von Directed Acyclic Graphs (DAG).\\ Dozent: Prof. Dr. Michael 
+ \textsc{Gebel}}
+
+%------------------------------------------------
+
+\NewEntry{05.-06.10.2017}{Kausale Mediationsanalyse, \textsc{Mannheim}}
+
+\Description{\MarginText{GESIS}Im Kurs wurde zunächst kurz in die Theorie der modernen Kausalanalyse eingeführt. Darauf aufbauend wurde die kontrafaktische Konzeptualisierung direkter und indirekter Kausaleffekte erarbeitet. Die Probleme traditioneller Methoden der Mediationsanalyse und die modernen Methoden wurden ebenso erarbeitet, wie Sensitivitätsanalysen für diese. Die Anwendung der Methoden erfolgt durch praktische Übungen mithilfe der Programme Stata und R.\\ Dozent: Dr.~Michael \textsc{Kühhirt}}
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{IT-Kenntnisse (Programme)}\vspace{1em}
+
+\Description{\MarginText{Grundlegend}\logo{Logos/SPSS.jpg}, Webentwicklung (\logo{Logos/HTML5.jpg}HTML 5, \logo{Logos/CSS3.jpg}CSS 3, \logo{Logos/JavaScript.jpg}JavaScript, \logo{Logos/PHP.jpg}PHP)}
+
+\Description{\MarginText{Erweitert}\logo{Logos/python.jpg}python, \logo{Logos/SQL.jpg}SQL, \logo{Logos/git.jpg}git, \logo{Logos/imperia.jpg}imperia, \logo{Logos/Blackboard.jpg}Blackboard, \logo{Logos/MS-Office.jpg}MS-Office (\logo{Logos/OneNote.jpg}OneNote, \logo{Logos/Word.jpg}Word, \logo{Logos/PowerPoint.jpg}PowerPoint, \logo{Logos/Outlook.jpg}Outlook), \logo{Logos/OpenOffice.jpg}Apache OpenOffice}
+
+\Description{\MarginText{Fortgeschritten}\logo{Logos/STATA.jpg}, \logo{Logos/R.jpg}R (\logo{Logos/readr.jpg}readr, \logo{Logos/tidyr.jpg}tidyr, \logo{Logos/dplyr.jpg}dplyr, \logo{Logos/stringr.jpg}stringr, \logo{Logos/ggplot2.jpg}ggplot2, \logo{Logos/Shiny.jpg}Shiny, \logo{Logos/Markdown.jpg}Sweave/Markdown),  \logo{Logos/LATEX.jpg}\LaTeX, \logo{Logos/Citavi.jpg}Citavi, \logo{Logos/Excel.jpg}Excel, \logo{Logos/moodle.jpg}moodle}
+
+\Description{\MarginText{Zertifikate}Introduction to Python}  
+
+%------------------------------------------------
+
+\spacedlowsmallcaps{IT-Kenntnisse (Skills)}\vspace{1em}
+
+\Description{\MarginText{Fortgeschritten}Web Scraping, Web Applications, Gradient Boosting Algorithmen, Deep Learning/neuronale Netze, Quantitative Textanalyse, Analyse von Paneldaten, Clusteranalyse, Faktorenanalyse, Strukturgleichungsmodelle}
+
+\Description{\MarginText{Zertifikate}Working with Web Data in R, Introduction to Text Analysis in R}  
+
+%------------------------------------------------
+
+\vspace{1em} % Extra space between major sections
+
+%----------------------------------------------------------------------------------------
+%	OTHER INFORMATION
+%----------------------------------------------------------------------------------------
+
+\spacedlowsmallcaps{Weitere Informationen}\vspace{1em}
+
+%\Description{\MarginText{Awards}2011\ \ $\cdotp$\ \ School of Business Postgraduate Scholarship}
+
+%\vspace{-0.5em} % Negative vertical space to counteract the vertical space between every \Description command
+
+%\Description{2010\ \ $\cdotp$\ \ Top Achiever Award -- Commerce}
+
+%------------------------------------------------
+
+%\vspace{1em}
+
+%\Description{\MarginText{Communication Skills}2010\ \ $\cdotp$\ \ Oral Presentation at the California Business Conference}
+
+%\vspace{-0.5em} % Negative vertical space to counteract the vertical space between every \Description command
+
+%\Description{2009\ \ $\cdotp$\ \ Poster at the Annual Business Conference in Oregon}
+
+%------------------------------------------------
+
+\vspace{1em}
+
+\newlength{\langbox} % Create a new length for the length of languages to keep them equally spaced
+\settowidth{\langbox}{Englisch} % Length equals the length of "Englisch" - if you have a longer language in your list put it here
+
+\Description{\MarginText{Sprachen}\parbox{\langbox}{\textsc{Deutsch}}\ \ $\cdotp$\ \ \ Muttersprache}
+
+\vspace{-0.5em} % Negative vertical space to counteract the vertical space between every \Description command
+
+\Description{\parbox{\langbox}{\textsc{Englisch}}\ \ $\cdotp$\ \ \ Sehr gut}
+
+\vspace{1em} % Negative vertical space to counteract the vertical space between every \Description command
+
+%------------------------------------------------
+
+\Description{\MarginText{Ehrenamt}1.Vorsitzender, Abteilung Badminton (Essener Sport Gemeinschaft 99/06)}
+
+\vspace{1em} % Negative vertical space to counteract the vertical space between every \Description command
+
+%------------------------------------------------
+
+%\Description{\MarginText{Interessen}Badminton \ \ $\cdotp$\ \ %Lesen\ \ $\cdotp$\ \ Schach\ \ $\cdotp$\ \ Kraftsport \ \ $      %\cdotp$\ \ Kochen}
+
+%----------------------------------------------------------------------------------------
+
+\date{\today}
+
+
+\end{cv}
+
+
+\end{document}
