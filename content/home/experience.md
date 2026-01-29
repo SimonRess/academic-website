@@ -25,7 +25,7 @@ experience:
 - title: Data Scientist
     company: Noweda eG
     company_url: 'https://www.noweda.de/leistungen/'
-    company_logo: https://www.noweda.de/typo3conf/ext/rm_base_instance/Resources/Public/Noweda/Images/logo.svg
+    company_logo: 'https://www.noweda.de/typo3conf/ext/rm_base_instance/Resources/Public/Noweda/Images/logo.svg'
     location: Ratingen
     date_start: '2024-04-01'
     date_end: ''
