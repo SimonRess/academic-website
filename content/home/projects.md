@@ -35,6 +35,8 @@ content:
     tag: Health
   - name: Labour Market
     tag: Labour Market
+  - name: AI Applications
+    tag: AI Applications
     
     
 design:
