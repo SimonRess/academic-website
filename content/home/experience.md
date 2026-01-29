@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scientist
-    company: MT GmbH
-    company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
-    company_logo: 'MTAG-logo'
+- title: Data Scientist
+    company: Noweda eG
+    company_url: 'https://www.noweda.de/leistungen'
+    company_logo: https://www.noweda.de/typo3conf/ext/rm_base_instance/Resources/Public/Noweda/Images/logo.svg
     location: Ratingen
-    date_start: '2023-01-01'
+    date_start: '2024-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,7 +35,24 @@ experience:
         * Analysing / Building Machine Learning Models
         * Conceptual Development / Project Management
         * Developing IT-Architecture
-        * Optimizing Code / Performance Improvments
+        * Optimizing Code / Performance Improvements
+        * Deploying Web Apps
+        * Data Engineering
+        * Full Stack Development of AI Apps
+  - title: Data Scientist
+    company: MT GmbH
+    company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
+    company_logo: 'MTAG-logo'
+    location: Ratingen
+    date_start: '2023-01-01'
+    date_end: '2024-03-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing / Building Machine Learning Models
+        * Conceptual Development / Project Management
+        * Developing IT-Architecture
+        * Optimizing Code / Performance Improvements
         * Deploying Web Apps
         
   - title: Junior Data Scientist
@@ -51,7 +68,7 @@ experience:
         * Analysing
         * Building Machine Learning Models
         * Developing IT-Architecture
-        * Optimizing Code / Performance Improvments
+        * Optimizing Code / Performance Improvements
         * Deploying Web Apps
         
   - title: Research Assistant
