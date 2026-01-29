@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 - title: Data Scientist
     company: Noweda eG
-    company_url: 'https://www.noweda.de/leistungen'
+    company_url: 'https://www.noweda.de/leistungen/'
     company_logo: https://www.noweda.de/typo3conf/ext/rm_base_instance/Resources/Public/Noweda/Images/logo.svg
     location: Ratingen
     date_start: '2024-04-01'
@@ -39,6 +39,7 @@ experience:
         * Deploying Web Apps
         * Data Engineering
         * Full Stack Development of AI Apps
+  
   - title: Data Scientist
     company: MT GmbH
     company_url: 'https://www.mt-itsolutions.com/portfolio/data-analytics/'
