@@ -39,8 +39,8 @@ social:
     link: /#contact
     
 organizations:
-  - name: MT GmbH
-    url: https://www.mt-itsolutions.com/
+  - name: Noweda eG
+    url: https://www.noweda.de/leistungen/
     
 education:
   courses:
